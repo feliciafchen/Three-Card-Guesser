@@ -1,0 +1,5 @@
+# ninja log v5
+1	143	6799655264528982	build.ninja	8377436ba9b22fb8
+2	273	6799646387122460	CMakeFiles/threeCardMonty.dir/main.cpp.obj	1a9da690a66acdec
+5	294	6799646387354984	CMakeFiles/threeCardMonty.dir/threeCardMonty.cpp.obj	adeb49f1bd6b66cd
+295	387	6799646388239470	threeCardMonty.exe	57c2eee600673ed1
